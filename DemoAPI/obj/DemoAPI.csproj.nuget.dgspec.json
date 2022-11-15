@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Training\\DemoAPI\\DemoAPI\\DemoAPI.csproj": {}
+    "E:\\SourceCode_Demo\\DemoAPI\\DemoAPI\\DemoAPI.csproj": {}
   },
   "projects": {
-    "E:\\Training\\DemoAPI\\DemoAPI\\DemoAPI.csproj": {
+    "E:\\SourceCode_Demo\\DemoAPI\\DemoAPI\\DemoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
+        "projectUniqueName": "E:\\SourceCode_Demo\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
         "projectName": "DemoAPI",
-        "projectPath": "E:\\Training\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
+        "projectPath": "E:\\SourceCode_Demo\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
         "packagesPath": "C:\\Users\\ECO1005_HANGBT\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\DemoAPI\\DemoAPI\\obj\\",
+        "outputPath": "E:\\SourceCode_Demo\\DemoAPI\\DemoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ECO1005_HANGBT\\AppData\\Roaming\\NuGet\\NuGet.Config",
